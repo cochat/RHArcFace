@@ -126,7 +126,7 @@
 				A7F03C6F1FCEA5EE008B2FF1 /* AppDelegate.m */,
 				A7F03C711FCEA5EE008B2FF1 /* ViewController.h */,
 				A7F03C721FCEA5EE008B2FF1 /* ViewController.m */,
-				A7F03CA11FCEA62B008B2FF1 /* Class */,
+				A7F03CA11FCEA62B008B2FF1 /* Classes */,
 				A7F03C741FCEA5EE008B2FF1 /* Main.storyboard */,
 				A7F03C771FCEA5EE008B2FF1 /* Assets.xcassets */,
 				A7F03C791FCEA5EE008B2FF1 /* LaunchScreen.storyboard */,
@@ -136,13 +136,13 @@
 			path = RHArcFace;
 			sourceTree = "<group>";
 		};
-		A7F03CA11FCEA62B008B2FF1 /* Class */ = {
+		A7F03CA11FCEA62B008B2FF1 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
 				A7F03CA21FCEA62B008B2FF1 /* inc */,
 				A7F03CAA1FCEA62B008B2FF1 /* lib */,
 			);
-			path = Class;
+			path = Classes;
 			sourceTree = "<group>";
 		};
 		A7F03CA21FCEA62B008B2FF1 /* inc */ = {
